@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-pure-json-server",
+  "version": "1.0.0",
+  "description": "NodeJS pure json-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easy-deep-learning/nodejs-pure-json-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easy-deep-learning/nodejs-pure-json-server/issues"
+  },
+  "homepage": "https://github.com/easy-deep-learning/nodejs-pure-json-server#readme"
+}
